@@ -30,6 +30,8 @@
 *.exe
 *.out
 *.app
+app
 
 # Netbeans Project Files
 nbproject
+/item01/build/
